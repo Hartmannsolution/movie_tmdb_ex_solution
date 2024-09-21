@@ -1,0 +1,43 @@
+[ {
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "birthDate" : "1990-01-01",
+  "address" : {
+    "street" : "Street 1",
+    "city" : "City 1",
+    "zipCode" : 1234
+  },
+  "account" : {
+    "id" : "1234567890",
+    "balance" : "1000",
+    "isActive" : true
+  }
+}, {
+  "firstName" : "Jesper",
+  "lastName" : "Henriksen",
+  "birthDate" : "1990-01-01",
+  "address" : {
+    "street" : "Street 1",
+    "city" : "City 1",
+    "zipCode" : 1234
+  },
+  "account" : {
+    "id" : "1234567890",
+    "balance" : "2000",
+    "isActive" : true
+  }
+}, {
+  "firstName" : "Signe",
+  "lastName" : "Jansson",
+  "birthDate" : "1990-01-01",
+  "address" : {
+    "street" : "Street 1",
+    "city" : "City 1",
+    "zipCode" : 1234
+  },
+  "account" : {
+    "id" : "1234567890",
+    "balance" : "3999",
+    "isActive" : true
+  }
+} ]
